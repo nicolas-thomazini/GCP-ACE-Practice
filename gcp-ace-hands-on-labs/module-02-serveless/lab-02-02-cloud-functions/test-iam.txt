@@ -1,0 +1,1 @@
+Arquivo de teste para o Lab 02.2 - Cloud Functions e IAM
