@@ -1,0 +1,1 @@
+Meu primeiro objeto no Google Cloud Storage!
