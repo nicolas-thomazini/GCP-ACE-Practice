@@ -1329,16 +1329,16 @@ Este será nosso quadro de progresso. Podemos ir marcando os laboratórios à me
 ### Módulo 04 — Databases
 
 - [x] Cloud SQL PostgreSQL
-- [ ] Cloud Spanner
-- [ ] Firestore
+- [x] Cloud Spanner
+- [x] Firestore
 - [ ] Bigtable
-- [ ] Backup, restore e comparação
+- [x] Backup, restore e comparação
 
 ### Módulo 05 — Networking
 
-- [ ] VPC e Subnets
-- [ ] Firewall, rotas e IPs
-- [ ] Cloud NAT e Cloud DNS
+- [x] VPC e Subnets
+- [x] Firewall, rotas e IPs
+- [x] Cloud NAT e Cloud DNS
 - [ ] External Load Balancer
 - [ ] Internal Load Balancer e health checks
 
