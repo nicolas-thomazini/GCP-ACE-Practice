@@ -1297,38 +1297,38 @@ Este será nosso quadro de progresso. Podemos ir marcando os laboratórios à me
 
 ### Módulo 00 — Preparação
 
-- [ ] Criar projeto e configurar billing
-- [ ] Configurar gcloud e regiões
-- [ ] Habilitar APIs e consultar quotas
-- [ ] Configurar budgets e alertas
+- [x] Criar projeto e configurar billing
+- [x] Configurar gcloud e regiões
+- [x] Habilitar APIs e consultar quotas
+- [x] Configurar budgets e alertas
 
 ### Módulo 01 — IAM
 
-- [ ] Criar Service Accounts
-- [ ] Basic, predefined e custom roles
-- [ ] IAM Policy e bindings
-- [ ] Impersonation e credenciais temporárias
-- [ ] Organization Policies e least privilege
+- [x] Criar Service Accounts
+- [x] Basic, predefined e custom roles
+- [x] IAM Policy e bindings
+- [x] Impersonation e credenciais temporárias
+- [x] Organization Policies e least privilege
 
 ### Módulo 02 — Serverless
 
-- [ ] Cloud Run Hello World
-- [ ] Revisões e traffic splitting
-- [ ] Cloud Functions HTTP
-- [ ] Pub/Sub e Eventarc
-- [ ] Cloud Storage triggers
+- [x] Cloud Run Hello World
+- [x] Revisões e traffic splitting
+- [x] Cloud Functions HTTP
+- [x] Pub/Sub e Eventarc
+- [x] Cloud Storage triggers
 
 ### Módulo 03 — Compute Engine
 
-- [ ] Criar e administrar VMs
-- [ ] Discos, snapshots e imagens
-- [ ] SSH e OS Login
-- [ ] Instance Templates
-- [ ] Managed Instance Groups e autoscaling
+- [x] Criar e administrar VMs
+- [x] Discos, snapshots e imagens
+- [x] SSH e OS Login
+- [x] Instance Templates
+- [x] Managed Instance Groups e autoscaling
 
 ### Módulo 04 — Databases
 
-- [ ] Cloud SQL PostgreSQL
+- [x] Cloud SQL PostgreSQL
 - [ ] Cloud Spanner
 - [ ] Firestore
 - [ ] Bigtable
